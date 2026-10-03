@@ -1,0 +1,4 @@
+Official F1 Ticketing 2026 Las Vegas circuit seating map
+Source page: https://tickets.formula1.com/en/f1-59007-las-vegas
+Direct official SVG: https://tickets.formula1.com/assets/img/ticketShopTopview/59007/topview.svg
+Captured and rasterized from official ticket map on 2026-10-03.
