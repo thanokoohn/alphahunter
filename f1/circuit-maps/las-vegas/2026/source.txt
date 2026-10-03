@@ -2,3 +2,17 @@ Official F1 Ticketing 2026 Las Vegas circuit seating map
 Source page: https://tickets.formula1.com/en/f1-59007-las-vegas
 Direct official SVG: https://tickets.formula1.com/assets/img/ticketShopTopview/59007/topview.svg
 Captured and rasterized from official ticket map on 2026-10-03.
+
+--- 2026-10-03 replacement (Claude research pass, TH-F1-20261003-001) ---
+New display asset: official_seat_map_zones.jpg (2568x2176 JPEG, 3x2 composite, tiles unmodified except resize to 1280x720).
+Tiles 1-5: Las Vegas Grand Prix promoter official 2026 grandstand location maps (f1lasvegasgp.com, uploaded 2026-03/2026-07):
+  https://www.f1lasvegasgp.com/app/uploads/2026/07/Website-Maps_2_MAINGRANDSTAND-1-scaled.jpg  (page /tickets/grandstands/main-grandstand/)
+  https://www.f1lasvegasgp.com/app/uploads/2026/07/Website-Maps_2_TURN3GRANDSTAND-1-scaled.jpg  (page /tickets/grandstands/turn-3-grandstand/)
+  https://www.f1lasvegasgp.com/app/uploads/2026/07/Website-Maps_WH-ZONE_HEINEKENGS-1-scaled.jpg  (page /tickets/grandstands/heineken-grandstands/)
+  https://www.f1lasvegasgp.com/app/uploads/2026/07/Website-Maps_WH-ZONE_Lewis-Hamilton-Grandstand-Package-2-scaled.jpg  (page /tickets/grandstands/west-harmon-grandstands/)
+  https://www.f1lasvegasgp.com/app/uploads/2026/03/TMOGRANDSTAND-1.png  (page /tickets/grandstands/t-mobile-grandstands/)
+Tile 6: previous mirror official_seat_map.png (F1 official ticketing topview 59007, cropped to content).
+Originals preserved byte-for-byte in sources/. Promoter site blocks non-browser clients (HTTP 475); captured via real Chrome session.
+Reason: previous F1 ticketing topview was grey-on-black with many unlabeled blocks (grade C). Promoter maps show zone boundaries (East Harmon red / Koval green / West Harmon purple / T-Mobile magenta), grandstand product names and turn numbers 1-17 (grade B).
+Limit: section-level numbers (e.g. PG1101-PG1116) exist only in Ticketmaster Virtual Venue (interactive 3D purchase flow), not as a static official image.
+Previous file official_seat_map.png kept unchanged for rollback.
