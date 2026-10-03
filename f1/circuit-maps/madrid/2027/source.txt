@@ -1,0 +1,4 @@
+Official circuit/promoter: https://www.madring.com/en/tickets
+Official map image: https://www.madring.com/img/mapa-default-2027/madring-zonas.webp
+Season: 2027. Official ticket page map shows grandstand blocks 1A/1B/1C, 3, 4A, 10, 12B/12C, 13A, 14A/14B, 15 and GA sectors.
+Captured 2026-10-03; HTTP 200 image/webp and visually inspected.
