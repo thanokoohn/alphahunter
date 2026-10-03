@@ -1,0 +1,5 @@
+Official F1 ticketing: https://ticketing.formula1.com/azerbaijan/ (FORMULA 1 QATAR AIRWAYS AZERBAIJAN GRAND PRIX 2027 ticket store; legacy URL tickets.formula1.com/en/f1-10851-azerbaijan)
+Official SVG: https://tickets.formula1.com/assets/img/ticketShopTopview/10851/topview.svg (kept as topview.svg)
+Display PNG: SVG rendered in Chrome at 3200px width, cropped to content. No drawing changes.
+Labels: Icheri Sheher, Khazar, Champions, Zafar, Absheron Grandstand A-E, Absheron Premium Suite, Sahil, Bulvar, Mugham, Giz Galasi, Marine, Marine Lounge, Filarmoniya, AzNeft, Paddock Club.
+Captured 2026-10-03. Supersedes OFFICIAL_MAP_NOT_FOUND status for Azerbaijan.

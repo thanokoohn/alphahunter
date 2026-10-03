@@ -1,0 +1,7 @@
+STATUS: CANDIDATE - requires Owner approval before Sheet registration (labels added).
+Official page: https://www.grandprix.com.au/en/tickets?type=grandstand (FORMULA 1 MOET & CHANDON AUSTRALIAN GRAND PRIX 2027 ticket search)
+Official SVG: https://www.grandprix.com.au/resources/v1.5.3/i/elements/track-map.svg (kept in sources/)
+candidate_track_map_labeled.jpg: official SVG rendered unmodified; white text labels added at each grandstand hotspot using the hotspot element IDs from the same official SVG
+(VETTEL, WEBBER, T12 ACCESSIBLE, LAUDA, WAITE, CLARK, BUTTON, ENGINEERS AUSTRALIA, STEWART, AMERICAN EXPRESS, HILL, RICCIARDO, BRABHAM, JONES, PIASTRI, FANGIO, SCHUMACHER, SENNA, PROST).
+On the official page these names appear as hover labels; the static SVG carries them only as element IDs. Purple blocks are non-grandstand hotspots (not labeled).
+F1 ticketing topview 3159 shows hospitality only (no grandstands) - not used. Captured 2026-10-03.

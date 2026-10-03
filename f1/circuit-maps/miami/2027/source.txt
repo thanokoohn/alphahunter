@@ -1,0 +1,4 @@
+Official promoter page: https://f1miamigp.com/tickets/grandstands (Formula 1 Hard Rock Miami Grand Prix, 2027 ticket sale page)
+Official map image: https://s47481.p489.sites.pressdns.com/wp-content/uploads/2026/06/updated-map-9.15.2.jpg (served by the official page; uploaded 2026-06)
+Content: Start/Finish (Gainbridge), Turn 1 North (Cadillac), North Beach, Verizon South Beach, Marina (MSC Cruises), Turn 18 grandstands.
+Captured 2026-10-03 via real Chrome session (site blocks plain HTTP clients). File unmodified (1577x786 JPEG).

@@ -1,0 +1,2 @@
+Official source: same official 2026 Chinese GP ticket price list image as official_seat_map.jpg (note: that file is PNG data with .jpg extension).
+official_seat_map_cropped.png (2026-10-03): crop of the top 1250px (header + seat map + legend) so the map is readable in the sheet panel. No other changes.

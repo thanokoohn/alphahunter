@@ -1,0 +1,4 @@
+Official F1 ticketing: https://ticketing.formula1.com/canada/ (FORMULA 1 AWS GRAND PRIX DU CANADA 2027 ticket store; legacy tickets.formula1.com/en/f1-3215-canada)
+Official SVG: https://tickets.formula1.com/assets/img/ticketShopTopview/3215/topview.svg (kept as topview.svg)
+Display PNG official_seat_map_f1topview.png: rendered at 3200px, cropped to content. Shows grandstands 1,11,12,15,16,21,24,31,32,33,34,46,47, Main Straight, Platine and hospitality.
+Replaces the previous page screenshot (official_seat_map.png kept for rollback). Captured 2026-10-03.

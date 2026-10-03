@@ -1,0 +1,4 @@
+Official F1 ticketing: https://tickets.formula1.com/en/f1-4861-mexico (current F1 ticket store page; season label not printed in the SVG)
+Official SVG: https://tickets.formula1.com/assets/img/ticketShopTopview/4861/topview.svg (kept as topview.svg)
+Display PNG official_seat_map_f1topview.png: rendered at 3200px, cropped to content. Shows Main Grandstand, grandstands 3,3A,4,5,5A,6,6-A,7,8,9,10,11,14,15, Sky Box / Platinum / Trackside boxes.
+Replaces the previous interactive-page screenshot (official_seat_map.png kept for rollback). Captured 2026-10-03.
