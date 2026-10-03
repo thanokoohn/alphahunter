@@ -1,0 +1,4 @@
+Official promoter page: https://www.bahrain.gp/en/map-of-the-grandstands-24
+Official map image: https://ticketsgp.vshcdn.net/uploads/images/16006/bahrain-2-svg.jpg
+Season: 2027 site map (the image is a Bahrain International Circuit layout; the event page also contains a legacy 2026 relocated-event notice).
+Captured 2026-10-03. HTTP 200 image/jpeg, circuit and grandstand labels visually confirmed.
