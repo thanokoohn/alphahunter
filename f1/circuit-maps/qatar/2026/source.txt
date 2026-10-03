@@ -1,0 +1,4 @@
+Official F1 Ticketing 2026 Qatar map
+Source page: https://tickets.formula1.com/en/f1-56257-qatar
+Direct official SVG: https://tickets.formula1.com/assets/img/ticketShopTopview/56257/topview.svg
+Captured and rasterized from official ticket map on 2026-10-03.
