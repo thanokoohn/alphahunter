@@ -1,0 +1,4 @@
+Official source: https://tickets.formula1.com/en/f1-3312-abu-dhabi
+Map asset: https://tickets.formula1.com/assets/img/ticketShopTopview/3312/topview.svg
+Season: 2026 (official F1 ticketing)
+Captured and rasterized from official SVG on 2026-10-03 for sheet display.
