@@ -1,0 +1,4 @@
+Official source: https://www.mexicogp.mx/mapa-del-circuito/
+Official promoter interactive circuit map, 2026 season assets (map_2D_tiles_2026).
+Captured from the official interactive map for readable static display in F1 Operations Hub.
+Capture date: 2026-10-03.
