@@ -1,0 +1,4 @@
+Official ticket seller source: https://www.gpticketshop.hu/Formula_1_HungarianGP/Formula_1.html
+Hungaroring official promoter source: https://hungaroring.hu/site/en/races/hungarian-gp-2027
+Direct official ticket-map image: https://www.gpticketshop.hu/upload/2026_09/25/179032303748552027/hungaroring_map_2027_v01___1.__tem___ap2_1920px.jpg
+Hungaroring 2027 seat-zone map from the official ticketing page, original 1920px JPEG. Captured 2026-10-03.
