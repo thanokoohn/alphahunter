@@ -1,0 +1,5 @@
+BIC (Bahrain International Circuit) official seat-picker assets on bahraingp.com.
+Background render: https://www.bahraingp.com/tickets/picker/dist/img/venue.avif (live HTTP 200 on 2026-10-04; also archived 20250720160354), 3840x1896, saved unmodified as bic_picker_venue.avif.
+Stand polygons: https://www.bahraingp.com/tickets/picker/dist/data/venue.json (live HTTP 200), saved unmodified as bic_picker_venue.json.
+derived_from_official_seat_map.jpg = the official render with the official venue.json polygons filled in their official colours plus text labels added by Claude
+(Batelco = current Beyon). Status: DERIVED_FROM_OFFICIAL_SOURCE (not OFFICIAL_RAW). Primary map for the dashboard stays official_seat_map_f1topview.png (labels are original).
