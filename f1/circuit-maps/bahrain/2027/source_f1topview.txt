@@ -1,0 +1,5 @@
+Formula 1 official ticket shop topview for event 3176 (Bahrain, Bahrain International Circuit, Sakhir).
+Original URL: https://tickets.formula1.com/assets/img/ticketShopTopview/3176/topview.svg (live HTTP 200 on 2026-10-04; also archived 20260127184903).
+f1topview_3176.svg = unmodified original. official_seat_map_f1topview.png = Chrome rasterisation of that SVG, whitespace cropped only.
+Labels: Main Grandstand, Turn 1 Grandstand, Beyon, University Grandstand 1-3, Victory Grandstand 1-2, VIP Tent, Paddock Club, Podium View, Corporate Lounge, The Dome, Section P+R.
+Status: OFFICIAL F1 TOPVIEW. No BIC (bahraingp.com) static grandstand map found (searched bahraingp.com, avapi/ticketing.bahraingp.com, CDN d3ie7ogstrup9y.cloudfront.net via Wayback CDX). Replaces the TicketsGP-sourced official_seat_map.jpg in this folder (unofficial).

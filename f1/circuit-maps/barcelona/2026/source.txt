@@ -1,0 +1,5 @@
+Official Circuit de Barcelona-Catalunya interactive circuit map (grandstands/tribunas, gates, parkings).
+Original URL: https://www.circuitcat.com/wp-content/themes/morillas-child/assets/circuit-map/interactive_map_en.svg (live HTTP 200 on 2026-10-04, byte-identical to Wayback 20260324092745).
+official_seat_map.svg = unmodified original. official_seat_map.png = Chrome rasterisation (1680x920), no edits.
+Labels: Tribuna A, B, C, E, F, G, H, J, K, L, M, N, S, T1, T10, Terrace, Principal, Pel. Privilege; gates 1-7, East, Principal (West); parkings H1-H5, S, GPs.
+Status: OFFICIAL_RAW (current official static, 2026).
