@@ -1,3 +1,5 @@
 Official source: https://www.silverstone.co.uk/sites/default/files/pdf/British%20Grand%20Prix%202025%20Map.pdf
 Asset: official British Grand Prix 2025 event map showing circuit and grandstand numbers, hospitality and GA areas. Latest direct Silverstone-hosted F1 map located in this research pass; 2026 map not located.
 Captured 2026-10-03; rendered from official PDF.
+
+HR 2026-10-04: official_seat_map_hr.* = full-resolution version of the same official source (JPG: original bytes, not re-encoded; PDF: vector page rendered at 3200 px). The earlier official_seat_map.* was a downscaled 'optimized' copy.

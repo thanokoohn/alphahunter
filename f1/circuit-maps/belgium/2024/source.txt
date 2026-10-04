@@ -1,0 +1,4 @@
+Official promoter (Circuit de Spa-Francorchamps) Formula 1 Rolex Belgian Grand Prix 2024 map (Gold/Silver/Bronze grandstands, entries, turns).
+Original URL: https://www.spa-francorchamps.be/assets/1dc2f8bb-48fc-4ab8-b013-404fc31a0ba3/spagp-map-2024.pdf (live HTTP 200 on 2026-10-04; vector PDF, 1200x914 pt, no raster images).
+official_seat_map_hr.png = PyMuPDF render of the vector page at 3200 px width (no upscaling of a raster). spagp-map-2024.pdf = unmodified original.
+Status: OFFICIAL_RAW_PREV_SEASON (2024). Candidate only: the current 96 Belgium map is belgium/2027/official_seat_map.png (990x799 screenshot). No 2025/2026 static map found (Wayback CDX spa-francorchamps.be).

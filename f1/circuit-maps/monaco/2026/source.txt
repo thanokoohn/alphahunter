@@ -1,3 +1,5 @@
 Official source: https://acm.mc/wp-content/uploads/2025/05/Hospitalites_ACM_F12026_F-3.pdf
 Asset: Automobile Club de Monaco 2026 official hospitality map, page 2 (circuit grandstands, hospitality and access areas).
 Captured 2026-10-03; rendered and optimized from official PDF.
+
+HR 2026-10-04: official_seat_map_hr.* = full-resolution version of the same official source (JPG: original bytes, not re-encoded; PDF: vector page rendered at 3200 px). The earlier official_seat_map.* was a downscaled 'optimized' copy.

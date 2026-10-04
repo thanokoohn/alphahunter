@@ -2,3 +2,5 @@ Official source: https://circuitoftheamericas.com/wp-content/uploads/2025-USGP-F
 Page: https://circuitoftheamericas.com/event/f1/map/
 Asset: Circuit of The Americas official 2025 USGP map showing grandstands, reserved seating, GA viewing areas and hospitality.
 Captured 2026-10-03; optimized JPEG from official image. Latest official event map located; 2026 edition not located.
+
+HR 2026-10-04: official_seat_map_hr.* = full-resolution version of the same official source (JPG: original bytes, not re-encoded; PDF: vector page rendered at 3200 px). The earlier official_seat_map.* was a downscaled 'optimized' copy.
