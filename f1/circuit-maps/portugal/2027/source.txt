@@ -1,0 +1,5 @@
+Official promoter (Autódromo Internacional do Algarve, portugalf1gp.com — site footer "©2026 Autódromo Internacional do Algarve") ticket-product image for the FORMULA 1 Portuguese Grand Prix 2027.
+Original URL: https://halayalla-tickets-assets-backup.s3.eu-west-1.amazonaws.com/public/uploads/tickets/upper-main-stand-3-days-1-1789905420-gallery.png
+(referenced by https://api.portugalf1gp.com/api/v2/event-detail/formula1-portuguese-grand-prix-2027, ticket "Upper Main Stand - 3 Days"). Unmodified, 720x480.
+Labels: North Stand, First Corner Stand, Portimão Stand, General Admission (x2), South Stand, Main Stand Inferior, Main Stand Superior (highlighted blue in the original).
+Status: OFFICIAL_RAW, LOW_RES (720 px) — recheck for a larger official map. Captured 2026-10-05.
